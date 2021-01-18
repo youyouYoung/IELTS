@@ -12,7 +12,7 @@
 
 关于kiss-ielts的[7天免费课程](https://kissielts.com/courses/7-self-study/1-7-day-free-course)的学习笔记, 笔记以此图为中心展开:
 
-![timeline](./kiss-ielts/img/Kiss-IELTS Lessons.svg)
+![](./kiss-ielts/img/Kiss-IELTS Lessons.svg)
 
 
 
