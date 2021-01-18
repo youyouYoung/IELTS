@@ -29,20 +29,3 @@ Healthy life balance and exercise are strongly promoted by the NHS, and therefor
 
 In conclusion, I think this is a very good idea, and I hope this programme will be put into action for high school/colleges shortly.
 
-
-
-
-
-|       | 知识点                                                       | 技能通关(能够应用到任何问题)                                 | 技能最快掌握时间 |
-| ----- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------- |
-| 技能1 | 3个模版 <br />审题,判断模版的步骤                            | **任何题目,都能做到..**<br/>**TR CC** <br />开头,结尾的作用<br />中间段:几个,功能是什么<br />e.g.利弊,让步反驳,原因,解决 | 1天              |
-| 技能2 | Body 段落 8种功能                                            | **中间段 TR CC** <br />不同功能的段落<br />每句话的功能      | 1天              |
-| 技能3 | 说逻辑的步骤<br />1个idea map<br />50个万能逻辑链接<br />80个高频核心词概念(A) | **中间段 TR CC** <br />用中文,有逻辑得,解释观点              | 1周              |
-| 技能4 | 100个例句 <br />(50个万能逻辑链的翻译)                       | **开头,结尾,中间段 Vocabulary**<br /> 把技能123的中文,不会翻译的词组,改写成自己会翻译的 | 1天              |
-| 技能5 | 9种高分结构的功能<br />e.g.被动语态, 2nd conditional         | **开头,结尾,中间段 Grammar** <br />把技能123的中文,用准确的句子结构,表达 | 3天              |
-| 技能6 | A类小作文:<br />7个模版作文;模版句<br />G类小作文:<br />formal/informal/semi formal 的特点 | 用自己的故事,回答80%题                                       | 1周              |
-
-
-
- 
-
