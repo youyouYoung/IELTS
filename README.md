@@ -16,6 +16,5 @@
 
 ## TODO
 
-- 整合各目录下的README
-
-- 去除`official article.md`中技能通关表的部分
+- [x] 整合各目录下的README
+- [x] 去除`official article.md`中技能通关表的部分
