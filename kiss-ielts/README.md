@@ -1,3 +1,9 @@
+## Introduction
+
+关于kiss-ielts的[7天免费课程](https://kissielts.com/courses/7-self-study/1-7-day-free-course)的学习笔记, 笔记以此[文件](kiss-ielts/Kiss-IELTS-Lessons.xmind)为中心展开:
+
+![](./img/Kiss-IELTS-Lessons.svg)
+
 ## 文件说明
 
 ```
