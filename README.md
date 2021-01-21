@@ -1,8 +1,6 @@
 # IELTS
 
-## Introduction
-
-雅思学习笔记
+我的雅思学习笔记
 
 
 
